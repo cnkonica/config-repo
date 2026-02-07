@@ -1,6 +1,6 @@
 content: "Hello, this is the local environment configuration!"
 server:
-  port: 32013
+  port: 8092
   servlet:
     context-path: /example
 management:
