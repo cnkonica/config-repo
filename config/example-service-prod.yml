@@ -1,6 +1,5 @@
 content: "Hello, this is the prod environment configuration!"
 server:
-  port: 32013
   servlet:
     context-path: /example
 management:
